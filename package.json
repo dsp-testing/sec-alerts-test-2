@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "apollo-server": "2.14.2",
+    "apollo-server": "3.12.1",
     "jquerry": "1.0.0",
     "lodash": "4.17.4",
     "nodemon": "1.0.0",
